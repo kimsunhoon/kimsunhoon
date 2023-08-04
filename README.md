@@ -13,12 +13,12 @@
 
 ### 📖 Studying
 <div align=left>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TYPESCRIPT&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MTSQL&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
