@@ -7,8 +7,8 @@
 
 ### 📖 Main-Stack
 <div align=left>
-  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
 </div>
 
 ### 📖 Studying
