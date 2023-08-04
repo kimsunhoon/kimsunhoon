@@ -20,17 +20,12 @@
 
 ### 📖 Studying
 <div align=left>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/boostrap-7952B3?style=for-the-badge&logo=boostrap&logoColor=white">
-  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
 </div>
 <br>
 
